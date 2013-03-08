@@ -1,6 +1,6 @@
 {
 	"name": "proteus-session",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"scripts": {
 		"test": "find test -type f -name 'test*.js' -print | xargs ./node_modules/.bin/mocha --reporter tap"
 	},
@@ -13,7 +13,7 @@
 		"proteus-logger": "git+ssh://git@github.com:ameba-proteus/proteus-logger.git#develop"
 	},
 	"devDependencies": {
-		"triton": "git+ssh://git@github.com:ameba-proteus/node-triton.git#develop",
+		"triton": "git+ssh://git@github.com:ameba-proteus/node-triton.git#v1.0.0",
 		"mocha": "*",
 		"should": "*"
 	}
