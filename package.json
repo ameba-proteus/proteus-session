@@ -10,7 +10,6 @@
 	},
 	"homepage": "https://github.com/ameba-proteus/proteus-session",
 	"dependencies": {
-		"proteus-logger": "git+ssh://git@github.com:ameba-proteus/proteus-logger.git#develop"
 	},
 	"devDependencies": {
 		"triton": "git+ssh://git@github.com:ameba-proteus/node-triton.git#v1.0.0",
