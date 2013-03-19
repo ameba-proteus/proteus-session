@@ -12,7 +12,7 @@
 	"dependencies": {
 	},
 	"devDependencies": {
-		"triton": "git+ssh://git@github.com:ameba-proteus/node-triton.git#1.0.0",
+		"triton": "git+ssh://git@github.com:ameba-proteus/node-triton.git#1.0.1",
 		"mocha": "*",
 		"should": "*"
 	}
