@@ -12,7 +12,7 @@
 	"dependencies": {
 	},
 	"devDependencies": {
-		"triton": "1.0.1",
+		"triton": "1.0.x",
 		"mocha": "*",
 		"should": "*"
 	}
