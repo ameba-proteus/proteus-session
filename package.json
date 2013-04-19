@@ -1,6 +1,6 @@
 {
 	"name": "proteus-session",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"scripts": {
 		"test": "find test -type f -name 'test*.js' -print | xargs ./node_modules/.bin/mocha --reporter tap"
 	},
